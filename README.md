@@ -1,8 +1,8 @@
 <div align="center">
 
-# Oi, eu sou o Thiago! 👋
+# Olá, eu sou o Thiago! 👋
 
-**Estudante de Engenharia no IME | Desenvolvimento de software, dados e automação**
+**Estudante de Engenharia Cartográfica no IME | Desenvolvimento de software, dados e automação**
 
 Gosto de transformar ideias em projetos reais — de aplicações web a visão computacional e geotecnologias.
 
