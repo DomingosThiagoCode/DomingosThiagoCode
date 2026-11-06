@@ -7,7 +7,7 @@
 Gosto de transformar ideias em projetos reais — de aplicações web a visão computacional e geotecnologias.
 
 <a href="https://www.linkedin.com/in/thiago-domingos-b7746830a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Thiago Domingos" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Thiago Domingos" />
 </a>
 
 </div>
